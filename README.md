@@ -7,5 +7,17 @@ Outside Sources Used:
 **Colab**
 
 Used as guide for:
+
   -storing in a list ('tolist()')
-  -searching using a list ('.isin(id_list)')
+  
+  -searching using a list ('.isin(client_id_list)')
+
+  -aggregating data (.agg)
+
+**ChatGPT**
+
+Used as guide for:
+
+  -writing a lambda function (Part 2)
+
+  -writing a function (Part 4)
