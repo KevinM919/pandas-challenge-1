@@ -20,4 +20,4 @@ Used as guide for:
 
   -writing a lambda function (Part 2)
 
-  -writing a function (Part 4)
+  -writing a function and applying to a dataframe (Part 4)
